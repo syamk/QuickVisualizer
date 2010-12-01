@@ -1,1 +1,4 @@
-Readme
+Lets you create charts from any table on any web page.
+
+- bookmark.html contains a link to the bookmarklet. Right-click and add it to your favourites.
+- chart.js contains the actual Javascript code to create charts
